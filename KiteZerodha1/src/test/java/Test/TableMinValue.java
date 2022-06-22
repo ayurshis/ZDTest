@@ -47,6 +47,8 @@ public class TableMinValue {
 		}
 		}
 		System.out.println(min);
+		
+		System.out.println("ghkll");
 }
 }
 
